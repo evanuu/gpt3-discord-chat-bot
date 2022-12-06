@@ -1,7 +1,7 @@
 # gpt3-discord-chat-bot
 
 Create a .env file and add keys from Discord and OpenAi <br>
-BOT_TOKEN=
+BOT_TOKEN= <br>
 OPENAI_API_KEY=
 
 npm install some dependencies... idk which ones, rip <- remember this add later
