@@ -1,6 +1,6 @@
 # gpt3-discord-chat-bot
 
-Create a .env file and add keys from Discord and OpenAi
+Create a .env file and add keys from Discord and OpenAi <br>
 BOT_TOKEN=
 OPENAI_API_KEY=
 
